@@ -1,0 +1,31 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.kotlin/
+
+# Signing material and secrets
+*.jks
+*.keystore
+*.p12
+*.pfx
+keystore.properties
+signing.properties
+
+# Build outputs: publish APKs as GitHub Release assets instead
+*.apk
+*.aab
+output-metadata.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
+# Private competition and recording materials
+*.docx
+*.mp4
+

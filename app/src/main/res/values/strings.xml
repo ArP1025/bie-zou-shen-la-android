@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">别走神啦</string>
+    <string name="accessibility_description">识别你主动选择的目标应用，并显示娱乐或搜索选择。</string>
+</resources>
